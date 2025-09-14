@@ -1,0 +1,5 @@
+apple
+banana
+elephant
+computer
+mountain
